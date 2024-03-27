@@ -1,0 +1,31 @@
+/* App.css */
+
+/* Optional: Add your custom styles here */
+
+/* Style the navbar brand */
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+/* Style the navbar links (buttons) */
+.nav-link {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #007bff; /* Link color */
+}
+
+/* Optional: Change the link color on hover */
+.nav-link:hover {
+  color: #0056b3; /* Hover color */
+}
+
+/* Optional: Adjust padding and spacing as needed */
+.navbar {
+  padding: 1rem;
+}
+
+/* Optional: Customize the background color */
+.bg-light {
+  background-color: #f8f9fa; /* Light grey background */
+}
